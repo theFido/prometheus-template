@@ -14,3 +14,7 @@ $ docker-compose up
 
 - [Grafana](http://localhost:3010)
 - [Prometheus](http://localhost:9090)
+
+**QR Code to this repository**
+
+![repo_qr](./repoQR.png)
