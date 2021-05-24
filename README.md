@@ -15,6 +15,10 @@ $ docker-compose up
 - [Grafana](http://localhost:3010)
 - [Prometheus](http://localhost:9090)
 
+## Links
+
+- [Prometheus Query Language](https://prometheus.io/docs/prometheus/latest/querying/basics/)
+
 **QR Code to this repository**
 
 ![repo_qr](./repoQR.png)

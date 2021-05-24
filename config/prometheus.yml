@@ -17,10 +17,10 @@ scrape_configs:
    # scheme defaults to 'http'.
    static_configs:
      - targets: ['localhost:9090']
- - job_name: 'mls'
+ - job_name: 'demo'
    metrics_path: '/prometheus'
    scheme: http
    tls_config:
        insecure_skip_verify: true
    static_configs:
-     - targets: ['10.10.10.1:8080']
+     - targets: ['10.10.1.1:8080
